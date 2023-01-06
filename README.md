@@ -1,6 +1,9 @@
 # zarity
 
-A new Flutter project.
+zarity Assignment
+
+![WhatsApp Video 2023-01-06 at 12 00 39 PM](https://user-images.githubusercontent.com/72931833/210944829-86273d32-82eb-422b-8bd4-0623a42e0d16.gif)
+
 
 ## Getting Started
 
