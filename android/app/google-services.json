@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "232412506084",
+    "project_id": "blackcoffer-47292",
+    "storage_bucket": "blackcoffer-47292.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232412506084:android:6b0d2552e19acd7d3309f1",
+        "android_client_info": {
+          "package_name": "com.example.black_coffer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232412506084-fddkqn4esdg19f89du91vfqmisiims7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloufR9P-SFprS13pRSf_yJUkksNR2wz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232412506084-fddkqn4esdg19f89du91vfqmisiims7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232412506084:android:90dfda958dc197113309f1",
+        "android_client_info": {
+          "package_name": "com.example.zarity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232412506084-fddkqn4esdg19f89du91vfqmisiims7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCloufR9P-SFprS13pRSf_yJUkksNR2wz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232412506084-fddkqn4esdg19f89du91vfqmisiims7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
